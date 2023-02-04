@@ -1,0 +1,28 @@
+{
+  "name": "timestamp-to-string",
+  "version": "1.0.0",
+  "description": "A function which converts timestamp formate to human redable string ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham0809200/Timestamp-to-redable-string.git"
+  },
+  "keywords": [
+    "date",
+    "timestamp",
+    "convert",
+    "human",
+    "readable",
+    "string"
+    
+  ],
+  "author": "Shubham kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham0809200/Timestamp-to-redable-string/issues"
+  },
+  "homepage": "https://github.com/shubham0809200/Timestamp-to-redable-string#readme"
+}
