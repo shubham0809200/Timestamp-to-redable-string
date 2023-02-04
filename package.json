@@ -1,6 +1,6 @@
 {
   "name": "timestamp-to-string",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A function which converts timestamp formate to human redable string ",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,9 @@
     "human",
     "readable",
     "string"
-    
   ],
   "author": "Shubham kumar",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shubham0809200/Timestamp-to-redable-string/issues"
   },

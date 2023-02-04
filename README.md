@@ -1,4 +1,5 @@
 # Timestamp-to-date Converter
+
 # Timestamp-to-Readable-String-Converter [![](https://img.shields.io/badge/-npm-red)](https://www.npmjs.com/package/timestamp-to-string)
 
 ## Description
@@ -85,4 +86,10 @@ console.log(date) // Friday, February 26, 2021
 | hhmmss     | 00:00:00    |
 | no formate | 07:11:22    |
 
+## Github Repository
 
+[Timestamp To Readable String ](https://github.com/shubham0809200/Timestamp-to-redable-string)
+
+## Author
+
+Shubham Kumar - [Github](https://github.com/shubham0809200)
